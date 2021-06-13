@@ -1,0 +1,12 @@
+com\leverx\Main.class
+com\leverx\entity\DogAge.class
+com\leverx\entity\Veterinarian.class
+com\leverx\entity\Volunteer.class
+com\leverx\entity\WorkingStaff.class
+com\leverx\Modeling$1.class
+com\leverx\entity\DogAviary.class
+com\leverx\CreateCollectrions.class
+com\leverx\entity\DogJob.class
+com\leverx\entity\Dog.class
+com\leverx\entity\DogTrainingArea.class
+com\leverx\Modeling.class

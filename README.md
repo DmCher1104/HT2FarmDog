@@ -1,1 +1,1 @@
-# HT2FarmDog
+# HomeTask2 is about "FarmDog" and modeling one day from this farm 
